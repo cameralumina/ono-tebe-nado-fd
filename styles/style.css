@@ -1,1 +1,8 @@
 /* место для вашего кода */
+.header__menu {
+    text-align: center;
+}
+.header {
+    display: grid;
+    justify-content: space-between;
+}
