@@ -1,1 +1,0 @@
-https://github.com/cameralumina/ono-tebe-nado-fd
