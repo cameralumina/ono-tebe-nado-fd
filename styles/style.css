@@ -1,5 +1,6 @@
 /* место для вашего кода */
 .overflow {
+  width: 100%;
   position: absolute;
   overflow-x: hidden;
 }
