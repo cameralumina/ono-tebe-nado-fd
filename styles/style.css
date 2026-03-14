@@ -1,7 +1,6 @@
 /* место для вашего кода */
 .overflow {
-  box-sizing: content-box;
-  height: 0;
+  max-width: 100%;
   overflow-x: hidden;
 }
 
