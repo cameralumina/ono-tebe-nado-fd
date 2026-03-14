@@ -1,8 +1,4 @@
 /* место для вашего кода */
-.overflow {
-  max-width: 100%;
-  overflow-x: hidden;
-}
 
 .header {
   display: flex;
