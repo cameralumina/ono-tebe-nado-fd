@@ -1,5 +1,8 @@
 /* место для вашего кода */
-
+.overflow {
+  position: absolute;
+  overflow-x: hidden;
+}
 .header {
   display: flex;
   justify-content: space-around;
