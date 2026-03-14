@@ -10,6 +10,7 @@
   padding-bottom: 96px;
   padding-left: 50px;
   padding-right: 50px;
+  margin-right: 50px;
 }
 
 .header__links-list {
@@ -51,12 +52,15 @@
   display: flex;
   flex-direction: column;
   width: 1100px;
+  height: 757px;
   min-height: 757px;
   background-image: url(../images/cover.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   margin-bottom: 180px;
   position: relative;
+  margin-right: 50px;
 }
 
 .cover__title {
@@ -103,7 +107,7 @@
   width: 1000px;
   height: 51px;
   margin-left: 50px;
-  padding-top: 106px;
+  margin-top: 106px;
 }
 
 .cover__description-text {
@@ -139,6 +143,7 @@
   width: 1052px;
   height: 723px;
   margin-bottom: 120px;
+  margin-right: 50px;
 }
 
 .lots__card-list {
@@ -231,6 +236,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-bottom: 180px;
+  margin-right: 50px;
 }
 
 .about__logo {
@@ -281,6 +287,7 @@
   width: 1100px;
   height: 180px;
   align-items: flex-start;
+  margin-right: 50px;
 }
 
 .footer__address {
