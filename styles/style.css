@@ -1,4 +1,7 @@
 /* место для вашего кода */
+.overflow {
+  overflow-x: hidden;
+}
 
 .header {
   display: flex;
